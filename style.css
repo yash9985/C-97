@@ -1,0 +1,12 @@
+body{
+
+    background:linear-gradient(Red 0%,Orange 20%,Yellow 40%,Lime 60%,Blue 80%,Violet 100%) ;
+
+}
+
+.images{
+
+    width: 400px;
+    height: 200px;
+}
+
